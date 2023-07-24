@@ -3,4 +3,4 @@ def find_max_height(t):
     H = # your code here 
     return # your code here
 
-t=13
+t=# your code here
