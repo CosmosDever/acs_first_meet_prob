@@ -7,8 +7,5 @@ def selection_sort(numbers):
 
         # your code here
 
-numbers = [17, 5, 9, 12, 2]
+numbers = # your code here
 
-selection_sort(numbers)
-
-print(numbers)
