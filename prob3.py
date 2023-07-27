@@ -1,11 +1,11 @@
-def selection_sort(numbers):
-    for # your code here
-        min_idx = i
-        for # your code here
-            if # your code here
-                min_idx = j
+def min_num(numbers):
+    min_num = numbers[0]
+    for num in # your code here :
+        if # your code here
+            min_num = num
 
-        # your code here
+    return # your code here
 
-numbers = # your code here
+numbers = [25, 56, 9, 8, 4]
 
+print(min_num(numbers))
